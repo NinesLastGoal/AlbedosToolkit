@@ -5,7 +5,6 @@ Note: this archive goes against Dreadrith's, the Original Author, wishes. It is 
 # DreadScripts-Archive
 
 </div>
----
 
 This repository is for archiving some of Dreadrith's Open-Source scripts that we thought didn't need their own repo, but should still have a central place to be kept for software preservation purposes.
 
