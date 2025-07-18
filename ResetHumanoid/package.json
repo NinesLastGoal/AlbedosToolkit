@@ -1,0 +1,17 @@
+{
+  "name": "com.dreadscripts.resethumanoid",
+  "displayName": "DreadScripts - ResetHumanoid",
+  "version": "1.0.2",
+  "description": "Simple tool to reset the pose of a humanoid animator.",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Dreadrith",
+    "email": "dreadscripts@gmail.com",
+    "url": "https://www.dreadrith.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "type": "tool",
+  "unity": "2019.4"
+}

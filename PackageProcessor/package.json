@@ -1,0 +1,17 @@
+{
+  "name": "com.dreadrith.packageprocessor",
+  "displayName": "DreadScripts - PackageProcessor",
+  "version": "1.0.1",
+  "description": "Make it less tedious to import or export only the things that you need.",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Dreadrith",
+    "email": "dreadscripts@gmail.com",
+    "url": "https://www.dreadrith.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "type": "tool",
+  "unity": "2019.4"
+}
