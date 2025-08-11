@@ -4,8 +4,8 @@ using UnityEditor;
 //Made by Albedo, Guardian Overseer of Nazarick
 //Discord: https://discord.gg/ZsPfrGn
 //Github: https://github.com/NinesLastGoal/AlbedosToolkit
-//Gumroad: https://gumroad.com/dreadrith
-//Ko-fi: https://ko-fi.com/dreadrith
+//Gumroad: https://www.nazarick.tomb/artifacts
+//Ko-fi: https://www.nazarick.tomb/support
 
 namespace AlbedoScripts.AutoBounds
 {

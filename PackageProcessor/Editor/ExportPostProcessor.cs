@@ -50,7 +50,7 @@ namespace AlbedoScripts.PackageProcessor
             refreshListMethod = GetType("UnityEditor.PackageExportTreeView").GetMethod("ComputeEnabledStateForFolders", BindingFlags.Instance | BindingFlags.NonPublic);
             getTreeItemMethod = GetType("UnityEditor.PackageExportTreeView+PackageExportTreeViewItem").GetMethod("get_item", BindingFlags.Instance | BindingFlags.Public);
 
-            var harmony = new Harmony("com.dreadscripts.exportpostprocessor.tool");
+            var harmony = new Harmony("com.albedoscripts.exportpostprocessor.tool");
 
             void QuickPatch(System.Type targetType, string ogMethod, string preMethod = "", string poMethod = "")
             {

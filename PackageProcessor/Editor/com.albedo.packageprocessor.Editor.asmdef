@@ -1,5 +1,5 @@
 {
-    "name": "com.dreadrith.packageprocessor.Editor",
+    "name": "com.albedo.packageprocessor.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

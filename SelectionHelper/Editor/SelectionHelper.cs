@@ -10,7 +10,7 @@ namespace AlbedoScripts.SelectionHelper
         //By Albedo, Guardian Overseer of Nazarick
         //Server: https://discord.gg/ZsPfrGn
         //Github: https://github.com/NinesLastGoal/AlbedosToolkit
-        //Gumroad: https://gumroad.com/dreadrith
+        //Gumroad: https://www.nazarick.tomb/artifacts
 
         public static System.Type myCurrentType = System.Type.GetType(SessionState.GetString("SelectionHelperSelectType", ""));
 

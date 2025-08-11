@@ -1,5 +1,5 @@
 {
-  "name": "com.dreadrith.packageprocessor",
+  "name": "com.albedo.packageprocessor",
   "displayName": "AlbedoScripts - PackageProcessor",
   "version": "1.0.1",
   "description": "Make it less tedious to import or export only the things that you need.",

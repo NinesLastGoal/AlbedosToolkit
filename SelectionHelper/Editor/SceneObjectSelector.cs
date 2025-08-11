@@ -6,7 +6,7 @@ using System.Collections.Generic;
 //By Albedo, Guardian Overseer of Nazarick
 //https://discord.gg/ZsPfrGn
 //Github: https://github.com/NinesLastGoal/AlbedosToolkit
-//Gumroad: https://gumroad.com/dreadrith
+//Gumroad: https://www.nazarick.tomb/artifacts
 
 namespace AlbedoScripts.SelectionHelper
 {
