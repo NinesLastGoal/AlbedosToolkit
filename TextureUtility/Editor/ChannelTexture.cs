@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace DreadScripts.TextureUtility
+namespace AlbedoScripts.TextureUtility
 {
     [System.Serializable]
     public class ChannelTexture

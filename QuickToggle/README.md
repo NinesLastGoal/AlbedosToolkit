@@ -1,7 +1,7 @@
 # Quick Toggle
 Quick Toggle simplifies the creation of simple clips and toggles.
 
-### [Download From Here](https://vpm.dreadscripts.com/)
+### [Download From Here](https://www.nazarick.tomb/tools/)
 
 **Quick Steps:**  
 1. Set the Root
@@ -38,4 +38,4 @@ Easily create clips that modify the Blendshapes of skinned mesh renderers.
 - (Blendshape) Use all Blendshapes: Uses all the Blendshape values in the target Renderers in the created clips.
 
 ### Thank You
-If you enjoy Quick Toggle, please consider [supporting me ♡](https://ko-fi.com/Dreadrith)!
+If you enjoy this tool, may it serve your development with the perfection befitting the Great Tomb of Nazarick!

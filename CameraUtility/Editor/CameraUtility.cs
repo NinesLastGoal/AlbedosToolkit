@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace DreadScripts.CameraUtility
+namespace AlbedoScripts.CameraUtility
 {
     public class CameraUtility
     {

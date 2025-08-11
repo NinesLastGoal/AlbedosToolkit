@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEditor;
 
 
-namespace DreadScripts.TextureUtility
+namespace AlbedoScripts.TextureUtility
 {
     public class TextureAutoPackerWindow : EditorWindow
     {

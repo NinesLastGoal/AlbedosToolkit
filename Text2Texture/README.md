@@ -23,4 +23,4 @@ Done!
 
 
 ### Thank you
-If you enjoy Text2Texture, please consider [supporting me ♡](https://ko-fi.com/Dreadrith)!
+If you enjoy this tool, may it serve your development with the perfection befitting the Great Tomb of Nazarick!

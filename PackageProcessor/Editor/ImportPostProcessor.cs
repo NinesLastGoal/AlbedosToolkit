@@ -7,7 +7,7 @@ using UnityEngine;
 using UnityEditor;
 using Object = UnityEngine.Object;
 
-namespace DreadScripts.PackageProcessor
+namespace AlbedoScripts.PackageProcessor
 {
     [InitializeOnLoad]
     public class ImportPostProcessor
@@ -20,7 +20,7 @@ namespace DreadScripts.PackageProcessor
 
         static ImportPostProcessor()
         {
-            harmony = new Harmony("com.dreadscripts.importpostprocessor.tool");
+            harmony = new Harmony("com.albedoscripts.importpostprocessor.tool");
             Type packageImportType = GetType("UnityEditor.PackageImport");
             Type packageImportItemType = GetType("UnityEditor.ImportPackageItem");
             assetPathField = packageImportItemType.GetField("destinationAssetPath", BindingFlags.Public | BindingFlags.Instance);

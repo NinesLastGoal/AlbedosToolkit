@@ -6,7 +6,7 @@ using System;
 using System.Linq;
 using System.Reflection;
 
-namespace DreadScripts.NoAutoGame
+namespace AlbedoScripts.NoAutoGame
 {
     internal static class NoAutoGame
     {

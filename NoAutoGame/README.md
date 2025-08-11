@@ -1,7 +1,7 @@
 # NoAutoGame
 Prevents the Game window from opening or automatically focusing.
 
-### [Download From Here](https://vpm.dreadscripts.com/)
+### [Download From Here](https://www.nazarick.tomb/tools/)
 
 ## How it works
 There are two settings you can toggle from `DreadTools > Utility > NoAutoGame`
@@ -9,4 +9,4 @@ There are two settings you can toggle from `DreadTools > Utility > NoAutoGame`
 - **AutoUnfocus:** This will restore all windows' focuses to what it was before entering playmode. Additionally, if AutoClose is disabled, and there was no Game window, then it'll close the Game window upon exiting playmode.
 
 ### Thank You
-If you enjoy NoAutoGame, please consider [supporting me ♡](https://ko-fi.com/Dreadrith)!
+If you enjoy this tool, may it serve your development with the perfection befitting the Great Tomb of Nazarick!

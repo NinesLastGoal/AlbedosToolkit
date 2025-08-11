@@ -17,4 +17,4 @@ Motion List:
 - Right Field: the new motion that the original motion should be replaced with
 
 ### Thank you
-If you enjoy Replace Motion, please consider [supporting me ♡](https://ko-fi.com/Dreadrith)!
+If you enjoy this tool, may it serve your development with the perfection befitting the Great Tomb of Nazarick!

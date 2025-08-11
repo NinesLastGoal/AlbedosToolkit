@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEditor;
 using Object = UnityEngine.Object;
 
-namespace DreadScripts.PackageProcessor
+namespace AlbedoScripts.PackageProcessor
 {
     public class PackageProcessorWindow : EditorWindow
     {

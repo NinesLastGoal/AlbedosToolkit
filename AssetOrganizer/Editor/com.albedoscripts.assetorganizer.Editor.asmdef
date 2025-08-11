@@ -1,5 +1,5 @@
 {
-    "name": "com.dreadscripts.camerautility.Editor",
+    "name": "com.albedoscripts.assetorganizer.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

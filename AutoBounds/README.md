@@ -18,6 +18,6 @@ This will set all the skinned mesh renderers that are children to the top most p
 2- Press the menu item: [DreadTools > Utility > AutoBounds > Sample]
 
 ### Before
-[<img src="https://raw.githubusercontent.com/Dreadrith/AutoBounds/main/_media/Before.png">]()
+[<img src="https://raw.githubusercontent.com/NinesLastGoal/AutoBounds/main/_media/Before.png">]()
 ### After
-[<img src="https://raw.githubusercontent.com/Dreadrith/AutoBounds/main/_media/After.png">]()
+[<img src="https://raw.githubusercontent.com/NinesLastGoal/AutoBounds/main/_media/After.png">]()

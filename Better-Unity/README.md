@@ -4,8 +4,8 @@ Collection of editor scripts that aim to overall facilitate and improve usage of
 
 
 Download: 
-<a href=https://github.com/Dreadrith/Better-Unity/releases/download/v1.0.0/Better-Unity_v1.0.0.unitypackage>Unity Package</a> - 
- <a href=https://github.com/Dreadrith/Better-Unity/releases/download/v1.0.0/Better-Unity_v1.0.0.zip>Zip (VPM Compatible)</a>
+<a href=https://github.com/NinesLastGoal/Better-Unity/releases/download/v1.0.0/Better-Unity_v1.0.0.unitypackage>Unity Package</a> - 
+ <a href=https://github.com/NinesLastGoal/Better-Unity/releases/download/v1.0.0/Better-Unity_v1.0.0.zip>Zip (VPM Compatible)</a>
 
 <details>
   <summary><b>CopyCutPaste</b></summary>

@@ -1,14 +1,14 @@
 {
-  "name": "com.dreadscripts.camerautility",
-  "displayName": "DreadScripts - CameraUtility",
+  "name": "com.albedoscripts.camerautility",
+  "displayName": "AlbedoScripts - CameraUtility",
   "version": "1.0.1",
   "description": "Simple menu item to snap Game View to Scene View or vice versa.",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
-    "name": "Dreadrith",
-    "email": "dreadscripts@gmail.com",
-    "url": "https://www.dreadrith.com"
+    "name": "Albedo",
+    "email": "albedoscripts@nazarick.tomb",
+    "url": "https://www.nazarick.tomb"
   },
   "legacyFolders": {},
   "legacyFiles": {},

@@ -1,5 +1,5 @@
 {
-    "name": "com.dreadscripts.resethumanoid.Editor",
+    "name": "com.albedoscripts.resethumanoid.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

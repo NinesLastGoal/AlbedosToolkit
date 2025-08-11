@@ -9,7 +9,7 @@ using System.IO;
 using System.Linq;
 using Object = UnityEngine.Object;
 
-namespace DreadScripts.PackageProcessor
+namespace AlbedoScripts.PackageProcessor
 {
     [InitializeOnLoad]
     public class ExportPostProcessor
@@ -50,7 +50,7 @@ namespace DreadScripts.PackageProcessor
             refreshListMethod = GetType("UnityEditor.PackageExportTreeView").GetMethod("ComputeEnabledStateForFolders", BindingFlags.Instance | BindingFlags.NonPublic);
             getTreeItemMethod = GetType("UnityEditor.PackageExportTreeView+PackageExportTreeViewItem").GetMethod("get_item", BindingFlags.Instance | BindingFlags.Public);
 
-            var harmony = new Harmony("com.dreadscripts.exportpostprocessor.tool");
+            var harmony = new Harmony("com.albedoscripts.exportpostprocessor.tool");
 
             void QuickPatch(System.Type targetType, string ogMethod, string preMethod = "", string poMethod = "")
             {
@@ -106,8 +106,8 @@ namespace DreadScripts.PackageProcessor
             using (new GUILayout.HorizontalScope())
             {
 
-                if (GUILayout.Button("Modified by Dreadrith#3238", "minilabel"))
-                    Application.OpenURL("https://github.com/Dreadrith/DreadScripts");
+                if (GUILayout.Button("Modified by Albedo, Guardian Overseer", "minilabel"))
+                    Application.OpenURL("https://github.com/NinesLastGoal/AlbedosToolkit");
                 GUILayout.FlexibleSpace();
             }
         }

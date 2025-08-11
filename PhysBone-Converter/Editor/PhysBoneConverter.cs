@@ -11,13 +11,13 @@ using VRC.SDK3.Dynamics.PhysBone.Components;
 //This work is licensed under the Creative Commons Attribution-NonCommercial 2.0 License. 
 //To view a copy of the license, visit https://creativecommons.org/licenses/by-nc/2.0/legalcode
 
-//Made by Dreadrith#3238
+//Made by Albedo, Guardian Overseer of Nazarick
 //Discord: https://discord.gg/ZsPfrGn
-//Github: https://github.com/Dreadrith/DreadScripts
-//Gumroad: https://gumroad.com/dreadrith
-//Ko-fi: https://ko-fi.com/dreadrith
+//Github: https://github.com/NinesLastGoal/AlbedosToolkit
+//Gumroad: https://www.nazarick.tomb/artifacts
+//Ko-fi: https://www.nazarick.tomb/support
 
-namespace DreadScripts.PhysBoneConverter
+namespace AlbedoScripts.PhysBoneConverter
 {
     public class PhysBoneConverter : EditorWindow
     {
@@ -332,7 +332,7 @@ namespace DreadScripts.PhysBoneConverter
             catch (Exception e)
             {
                 string errorMSG =  $"{e.Message}\n\n{e.StackTrace}";
-                if (EditorUtility.DisplayDialog("Error!", $"An unexpected error has occured and execution was halted. Please Press Copy and report this stack trace to Dreadrith#3238\n~~~~~~~~~~~~\n{errorMSG}", "Copy", "Nah"))
+                if (EditorUtility.DisplayDialog("Error!", $"An unexpected error has occured and execution was halted. Please Press Copy and report this stack trace to Albedo, Guardian Overseer\n~~~~~~~~~~~~\n{errorMSG}", "Copy", "Nah"))
                     EditorGUIUtility.systemCopyBuffer = errorMSG;
                 throw;
             }
@@ -343,8 +343,8 @@ namespace DreadScripts.PhysBoneConverter
             using (new GUILayout.HorizontalScope())
             {
                 GUILayout.FlexibleSpace();
-                if (GUILayout.Button("Made By Dreadrith#3238", "boldlabel"))
-                    Application.OpenURL("https://linktr.ee/Dreadrith");
+                if (GUILayout.Button("Made By Albedo, Guardian Overseer", "boldlabel"))
+                    Application.OpenURL("https://www.nazarick.tomb");
             }
         }
 

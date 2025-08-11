@@ -3,12 +3,12 @@ using UnityEngine;
 using System.Linq;
 using System.Collections.Generic;
 
-//By Dreadrith#3238
+//By Albedo, Guardian Overseer of Nazarick
 //https://discord.gg/ZsPfrGn
-//Github: https://github.com/Dreadrith/DreadScripts
-//Gumroad: https://gumroad.com/dreadrith
+//Github: https://github.com/NinesLastGoal/AlbedosToolkit
+//Gumroad: https://www.nazarick.tomb/artifacts
 
-namespace DreadScripts.SelectionHelper
+namespace AlbedoScripts.SelectionHelper
 {
     public class SceneObjectSelector : EditorWindow
     {
@@ -260,8 +260,8 @@ namespace DreadScripts.SelectionHelper
             using (new GUILayout.HorizontalScope())
             {
                 GUILayout.FlexibleSpace();
-                if (GUILayout.Button("Made by Dreadrith#3238", "boldlabel"))
-                    Application.OpenURL("https://github.com/Dreadrith/DreadScripts");
+                if (GUILayout.Button("Made by Albedo, Guardian Overseer", "boldlabel"))
+                    Application.OpenURL("https://github.com/NinesLastGoal/AlbedosToolkit");
             }
 
         }

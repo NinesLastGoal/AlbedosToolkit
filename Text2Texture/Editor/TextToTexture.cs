@@ -9,7 +9,7 @@ using TMPro;
 using UnityEditor;
 using Object = UnityEngine.Object;
 
-namespace DreadScripts.TextToTexture
+namespace AlbedoScripts.TextToTexture
 {
     public class TextToTexture : EditorWindow
     {
@@ -586,8 +586,8 @@ namespace DreadScripts.TextToTexture
             using (new GUILayout.HorizontalScope())
             {
                 GUILayout.FlexibleSpace();
-                if (GUILayout.Button("Made By Dreadrith#3238", "boldlabel"))
-                    Application.OpenURL("https://linktr.ee/Dreadrith");
+                if (GUILayout.Button("Made By Albedo, Guardian Overseer", "boldlabel"))
+                    Application.OpenURL("https://www.nazarick.tomb");
             }
         }
 

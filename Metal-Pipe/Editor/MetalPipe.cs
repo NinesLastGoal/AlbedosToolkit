@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace DreadScripts.MetalPipe
+namespace AlbedoScripts.MetalPipe
 {
 	public class MetalPipe : EditorWindow, IHasCustomMenu
 	{

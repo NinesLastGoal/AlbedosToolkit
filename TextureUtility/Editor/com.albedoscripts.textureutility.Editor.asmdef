@@ -1,5 +1,5 @@
 {
-    "name": "com.dreadscripts.noautogame.Editor",
+    "name": "com.albedoscripts.textureutility.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

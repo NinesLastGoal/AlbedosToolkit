@@ -1,13 +1,13 @@
 {
-  "name": "com.dreadrith.physboneconverter",
-  "displayName": "DreadTools - PhysBone Converter",
+  "name": "com.albedo.physboneconverter",
+  "displayName": "AlbedoTools - PhysBone Converter",
   "version": "1.0.3",
   "unity": "2019.4",
   "description": "Converts PhysBones to DynamicBones to the best of my capability",
   "keywords": [
-    "Dreadrith",
-    "DreadScripts",
-    "DreadTools",
+    "Albedo",
+    "AlbedoScripts",
+    "AlbedoTools",
     "VRChat",
 	"ChilloutVR"
 	"Tool",
@@ -16,8 +16,8 @@
 	"DynamicBone"
   ],
   "author": {
-    "name": "Dreadrith",
-    "email": "dreadscripts@gmail.com",
-    "url": "https://linktr.ee/Dreadrith"
+    "name": "Albedo",
+    "email": "albedoscripts@nazarick.tomb",
+    "url": "https://www.nazarick.tomb"
   }
 }

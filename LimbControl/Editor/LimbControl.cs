@@ -13,7 +13,7 @@ using static DreadScripts.LimbControl.LimbControl.CustomGUI;
 using UnityEditor.SceneManagement;
 using UnityEngine.Networking;
 
-namespace DreadScripts.LimbControl
+namespace AlbedoScripts.LimbControl
 {
     public class LimbControl : EditorWindow
     {
@@ -579,8 +579,8 @@ namespace DreadScripts.LimbControl
 			using (new GUILayout.HorizontalScope())
 			{
 				GUILayout.FlexibleSpace();
-				if (GUILayout.Button("Made By Dreadrith#3238", "boldlabel"))
-					Application.OpenURL("https://linktr.ee/Dreadrith");
+				if (GUILayout.Button("Made By Albedo, Guardian Overseer", "boldlabel"))
+					Application.OpenURL("https://www.nazarick.tomb");
 			}
 		}
 		#endregion

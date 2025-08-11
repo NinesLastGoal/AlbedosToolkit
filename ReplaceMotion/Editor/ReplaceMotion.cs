@@ -6,7 +6,7 @@ using UnityEditor.Animations;
 using VRC.SDK3.Avatars.Components;
 using System.Linq;
 
-namespace DreadScripts.ReplaceMotion
+namespace AlbedoScripts.ReplaceMotion
 {
     public class ReplaceMotion : EditorWindow
     {

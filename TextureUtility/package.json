@@ -1,14 +1,14 @@
 {
-  "name": "com.dreadscripts.textureutility",
-  "displayName": "DreadScripts - TextureUtility",
+  "name": "com.albedoscripts.textureutility",
+  "displayName": "AlbedoScripts - TextureUtility",
   "version": "1.1.0",
   "description": "Texture Utility's purpose is to speed up the workflow by negating the need to use other software for mundane texture edits and achieve the desired results directly in Unity.",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
-    "name": "Dreadrith",
-    "email": "dreadscripts@gmail.com",
-    "url": "https://www.dreadrith.com"
+    "name": "Albedo",
+    "email": "albedoscripts@nazarick.tomb",
+    "url": "https://www.nazarick.tomb"
   },
   "legacyFolders": {},
   "legacyFiles": {},

@@ -2,7 +2,7 @@
 using UnityEditor;
 using System.IO;
 
-namespace DreadScripts.CopyCutPaste
+namespace AlbedoScripts.CopyCutPaste
 {
     public class CopyCutPaste
     {

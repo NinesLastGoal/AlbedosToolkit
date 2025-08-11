@@ -1,7 +1,7 @@
 # Asset Organizer
 Reorganizes Prefab, Scene or Folder's dependency assets into their own sorted folders 
 
-### [Download From Here](https://vpm.dreadscripts.com/)
+### [Download From Here](https://www.nazarick.tomb/tools/)
 
 ## Features
 - Organize assets in your project based on their types or custom folders.
@@ -19,4 +19,4 @@ Reorganizes Prefab, Scene or Folder's dependency assets into their own sorted fo
 7. Click "Organize Assets" to apply the changes.
 
 ### Thank You
-If you enjoy Asset Organizer, please consider [supporting me ♡](https://ko-fi.com/Dreadrith)!
+If you enjoy this tool, may it serve your development with the perfection befitting the Great Tomb of Nazarick!

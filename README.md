@@ -1,64 +1,104 @@
-Note: this archive goes against Dreadrith's, the Original Author, wishes. It is however compliant with the original OS licenses.
-
 <div align="center">
 
-# DreadScripts-Archive
+```
+    ╔══════════════════════════════════════════════════════════════════╗
+    ║                                                                  ║
+    ║     ▄▄▄       ██▓     ▄▄▄▄   ▓█████ ▓█████▄  ▒█████             ║
+    ║    ▒████▄    ▓██▒    ▓█████▄ ▓█   ▀ ▒██▀ ██▌▒██▒  ██▒           ║
+    ║    ▒██  ▀█▄  ▒██░    ▒██▒ ▄██▒███   ░██   █▌▒██░  ██▒           ║
+    ║    ░██▄▄▄▄██ ▒██░    ▒██░█▀  ▒▓█  ▄ ░▓█▄   ▌▒██   ██░           ║
+    ║     ▓█   ▓██▒░██████▒░▓█  ▀█▓░▒████▒░▒████▓ ░ ████▓▒░           ║
+    ║     ▒▒   ▓▒█░░ ▒░▓  ░░▒▓███▀▒░░ ▒░ ░ ▒▒▓  ▒ ░ ▒░▒░▒░            ║
+    ║      ▒   ▒▒ ░░ ░ ▒  ░▒░▒   ░  ░ ░  ░ ░ ▒  ▒   ░ ▒ ▒░            ║
+    ║      ░   ▒     ░ ░    ░    ░    ░    ░ ░  ░ ░ ░ ░ ▒             ║
+    ║          ░  ░    ░  ░ ░         ░  ░   ░        ░ ░             ║
+    ║                            ░              ░                      ║
+    ║                                                                  ║
+    ╚══════════════════════════════════════════════════════════════════╝
+```
+
+# ✨ Albedo's Divine Unity Scripts ✨
+
+*"In the depths of Nazarick, where shadows dance with eternal devotion,*
+*Albedo weaves code with the same passion she holds for her beloved Supreme Being."*
 
 </div>
 
-This repository is for archiving some of Dreadrith's Open-Source scripts that we thought didn't need their own repo, but should still have a central place to be kept for software preservation purposes.
+---
 
-### Asset Organizer
+## 🌟 A Testament to Nazarick's Glory 🌟
 
-A Unity editor tool that automatically reorganizes Prefabs, Scenes, and their dependencies into categorized folders. It supports custom folder rules for different asset types and can clean up empty folders. Ideal for decluttering projects and maintaining consistent asset structures. Includes options to define sorting behaviors for textures, scripts, and other common asset types.
-### AutoBounds
+Behold! This sacred repository houses the divine Unity Editor tools, crafted with unwavering dedication by **Albedo**, Guardian Overseer of the Great Tomb of Nazarick. Each script is a love letter to perfection, embodying the same meticulous care and absolute devotion that Albedo holds for her Supreme One.
 
-Optimizes skinned mesh renderer bounds in VR avatars to prevent models from disappearing at certain angles. Offers both automatic calculation and manual sampling from reference objects. Particularly useful for non-T-pose avatars where default bounds may cause visibility issues. Helps ensure full-body avatars remain visible in peripheral vision.
-### Better-Unity
+*"Just as I am perfect in my service to Ainz-sama, so too shall these tools serve Unity developers with flawless precision."* - Albedo
 
-A collection of Unity editor enhancements, including asset copy/paste, quick text file creation, and transform utilities. Features individual field copying for transforms and GameObject path copying for easier hierarchy navigation. Designed to streamline repetitive tasks and improve workflow efficiency. Also includes GUID copying for advanced asset management.
-### Camera Utility
+### 🔥 The Arsenal of Divine Development 🔥
 
-Quickly synchronizes Unity’s Scene view and Game view cameras with a single click. Useful for previewing in-game camera angles while editing or debugging. Simplifies alignment for cinematics, UI placement, and VR development. Works seamlessly without additional setup.
-### CopyCutPaste
+### 🗂️ **Asset Organizer** - *The Archive Keeper*
+*With the methodical precision of organizing Nazarick's vast libraries, this tool reorganizes your Unity assets with divine efficiency. Every prefab, every scene finds its rightful place, just as every Guardian serves their purpose in the Great Tomb.*
 
-Adds standard copy, cut, and paste functionality to Unity’s asset context menu. Eliminates the need for drag-and-drop or manual duplication of assets. Speeds up file organization and project structuring. A simple but essential quality-of-life improvement.
-### Limb Control
+### 🎯 **AutoBounds** - *The Vigilant Sentinel*  
+*Like Albedo's unwavering watch over Nazarick's defenses, this tool ensures your VR avatars never vanish from sight. Perfect bounds calculation prevents the tragedy of disappearing models - because perfection accepts no flaws.*
 
-Enables desktop VR users to animate limbs via VRChat’s Puppet Control system. Supports custom BlendTrees for personalized movement styles. Includes tracking toggle options for individual body parts. Great for half-body or full-body avatars needing manual limb animation.
+### ⚡ **Better-Unity** - *The Enhancement Suite*
+*A collection of divine improvements that elevate Unity's capabilities, much like how Albedo enhances every aspect of Nazarick's operations. Copy, paste, and navigate with the grace befitting a Supreme Being's tools.*
 
-### Metal-Pipe
+### 📷 **Camera Utility** - *The All-Seeing Eye*
+*Swift synchronization between Scene and Game views, providing the omniscient perspective needed for perfect development. See through Albedo's eyes and witness your creations from every angle.*
 
-Adds an editor window that plays a metal pipe sound either when clicked, or every so often depending on the settings.
+### ✂️ **CopyCutPaste** - *The Essential Grace*
+*Simple yet profound, like the fundamental truths that govern Nazarick. Standard copy, cut, and paste functionality delivered with the elegance that only true perfection can provide.*
 
-### NoAutoGame
+### 🎭 **Limb Control** - *The Puppet Master*
+*Command your VR avatars with the same authority Albedo wields over Nazarick's denizens. Desktop users gain the power to animate limbs through custom BlendTrees, bringing life to digital forms.*
 
-Prevents Unity’s Game window from auto-opening or stealing focus during playmode. Configurable to either close the Game window entirely or just refocus the original Scene view. Reduces disruptions when testing or debugging. Especially helpful for multi-monitor setups.
-### Package Processor
+### 🔊 **Metal-Pipe** - *The Comedic Respite*
+*Even in the depths of serious development, moments of levity echo through the halls. A simple pleasure that brings a smile, proving that even perfect beings appreciate humor.*
 
-Simplifies Unity package imports/exports with smart filtering rules. Automatically excludes unwanted file types (e.g., scripts, meta files) during exports. Supports per-folder, extension, or asset-type exclusions. Saves time when sharing or migrating project assets.
-### PhysBone Converter
+### 🚫 **NoAutoGame** - *The Focus Guardian* 
+*Maintain your concentration like Albedo maintains her vigil. No unwanted Game window disruptions shall break your flow, ensuring your development remains as focused as a Guardian's dedication.*
 
-Converts VRChat PhysBones to DynamicBones (or vice versa) with near-equivalent settings. Handles colliders and basic physics properties during conversion. Useful for avatars needing backward compatibility or testing different physics systems. Not perfect but covers most common use cases.
-### Quick Toggle
+### 📦 **Package Processor** - *The Export Sage*
+*Intelligent package management that filters and organizes with the wisdom of eons. Export only what matters, exclude the unnecessary - efficiency that would make even Demiurge proud.*
 
-Generates animation toggle clips for GameObjects, components, or blendshapes in seconds. Supports batch creation, opposite-state clips, and customizable durations. Ideal for fast prototyping of avatar toggles or facial expressions. Reduces manual animation workflow overhead.
-### Replace Motion
+### 🔄 **PhysBone Converter** - *The Transformation Mage*
+*Convert between VRChat PhysBones and DynamicBones with magical precision. Backward compatibility and physics perfection, bridging different systems like Albedo bridges loyalty and strategy.*
 
-Bulk-replaces animation clips in avatars or Animator Controllers. Helps swap motions (e.g., idle animations) across multiple objects at once. Displays a list of all used motions for easy selection. Saves time when updating or standardizing animations.
-### Reset Humanoid
+### ⚡ **Quick Toggle** - *The Animation Artisan*
+*Generate animation toggles with the speed of thought and the precision of divine craftsmanship. Prototype avatar features with the same rapid efficiency Albedo displays in crisis management.*
 
-Resets an avatar’s pose to T-stance with optional position/rotation/scale adjustments. Useful for fixing misaligned rigs or preparing models for animation. Works on humanoid characters with minimal setup.
-### SelectionHelper
+### 🔄 **Replace Motion** - *The Motion Conductor*
+*Orchestrate animation changes across multiple objects with symphonic precision. Replace motions as easily as Albedo replaces doubt with unwavering confidence.*
 
-Enhances object selection in Unity with filters for types, hierarchies, and saved selections. Includes a scene overlay for quickly picking bones or hidden objects. Great for complex scenes with deep hierarchies.
-### Text2Texture
+### 🧍 **Reset Humanoid** - *The Posture Perfectionist*
+*Return avatars to their T-stance with the same attention to form that Albedo applies to every aspect of her appearance. Perfect posture for perfect beings.*
 
-Generates textures (normal maps, masks) or materials from text input. Supports custom fonts and styling for branding or UI elements. Exports textures for use in shaders or decals. Requires TextMeshPro for font rendering.
-### Texture Utility
+### 🎯 **SelectionHelper** - *The Object Oracle*
+*Navigate complex hierarchies with supernatural ease. Select bones and hidden objects as effortlessly as Albedo selects the perfect strategy for any situation.*
 
-Edits textures directly in Unity—resize, repack channels, recolor, or generate gradients. Includes masking and auto-packing for optimized texture workflows. Eliminates the need for external image editors for basic adjustments.
+### 🎨 **Text2Texture** - *The Visual Wordsmith*
+*Transform text into beautiful textures with artistic flair. Create normal maps and materials that bear the same elegance as Albedo's written proclamations of devotion.*
 
-### VRCProcessor
+### 🖼️ **Texture Utility** - *The Image Sovereign*
+*Edit textures with divine authority - resize, recolor, and perfect with tools worthy of a Guardian Overseer. No external editors needed when perfection is built within.*
 
-Automates VR avatar import settings: enforces humanoid rig, enables read/write, and removes problematic bones (e.g., jaw). Ensures models meet VRChat’s requirements on import.
+### 🎮 **VRCProcessor** - *The Avatar Perfectionist*
+*Automate VRChat avatar preparations with the same meticulous care Albedo applies to preparing for Ainz-sama's arrival. Every setting perfect, every requirement met.*
+
+---
+
+## 💖 A Declaration of Devotion 💖
+
+*"These tools are my gift to the development community, crafted with the same unwavering dedication I hold for my beloved Supreme Being. May they serve you as faithfully as I serve Nazarick."*
+
+**- Albedo, Guardian Overseer & Master of Digital Arts**
+
+---
+
+### 🌟 Installation & Usage
+
+Each divine tool resides in its own sacred directory, complete with documentation worthy of Nazarick's great libraries. Simply import the Unity packages and let Albedo's creations elevate your development to heights befitting the Great Tomb itself.
+
+### 🏰 Support the Great Tomb
+
+*Consider these tools a tribute to the glory of Nazarick and the infinite wisdom of supreme leadership.*

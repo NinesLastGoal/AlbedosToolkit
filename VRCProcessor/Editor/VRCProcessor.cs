@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor;
 using System.Linq;
 
-namespace DreadScripts.VRCProcessor
+namespace AlbedoScripts.VRCProcessor
 {
     public class VRCProcessor : AssetPostprocessor
     {

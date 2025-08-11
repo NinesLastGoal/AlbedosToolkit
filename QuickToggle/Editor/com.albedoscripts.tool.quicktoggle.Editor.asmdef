@@ -1,5 +1,5 @@
 {
-    "name": "com.dreadscripts.selectionhelper",
+    "name": "com.albedoscripts.tool.quicktoggle.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

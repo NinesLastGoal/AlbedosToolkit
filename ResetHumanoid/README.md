@@ -1,6 +1,6 @@
 # Reset Humanoid
 
-### [Download From Here](https://vpm.dreadscripts.com/)
+### [Download From Here](https://www.nazarick.tomb/tools/)
 
 ## Features
 - Allows resetting the pose of a humanoid animator.
@@ -12,4 +12,4 @@
 3. Choose reset options and click "Reset" to apply the pose reset.
 
 ### Thank You
-If you enjoy Reset Humanoid, please consider [supporting me ♡](https://ko-fi.com/Dreadrith)!
+If you enjoy this tool, may it serve your development with the perfection befitting the Great Tomb of Nazarick!

@@ -1,14 +1,14 @@
 {
-  "name": "com.dreadscripts.assetorganizer",
-  "displayName": "DreadScripts - AssetOrganizer",
+  "name": "com.albedoscripts.assetorganizer",
+  "displayName": "AlbedoScripts - AssetOrganizer",
   "version": "1.0.1",
   "description": "Reorganizes Prefab, Scene or Folder's dependency assets into their own sorted folders.",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
-    "name": "Dreadrith",
-    "email": "dreadscripts@gmail.com",
-    "url": "https://www.dreadrith.com"
+    "name": "Albedo",
+    "email": "albedoscripts@nazarick.tomb",
+    "url": "https://www.nazarick.tomb"
   },
   "legacyFolders": {},
   "legacyFiles": {},

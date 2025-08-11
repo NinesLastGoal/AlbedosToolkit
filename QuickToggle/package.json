@@ -1,14 +1,14 @@
 {
-  "name": "com.dreadscripts.quicktoggle",
-  "displayName": "DreadScripts - QuickToggle",
+  "name": "com.albedoscripts.quicktoggle",
+  "displayName": "AlbedoScripts - QuickToggle",
   "version": "1.6.1",
   "description": "Quick Toggle simplifies the creation of simple clips and toggles.",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
-    "name": "Dreadrith",
-    "email": "dreadscripts@gmail.com",
-    "url": "https://www.dreadrith.com"
+    "name": "Albedo",
+    "email": "albedoscripts@nazarick.tomb",
+    "url": "https://www.nazarick.tomb"
   },
   "legacyFolders": {},
   "legacyFiles": {},

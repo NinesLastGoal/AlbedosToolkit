@@ -1,5 +1,5 @@
 {
-    "name": "com.dreadscripts.limbcontrol.Editor",
+    "name": "com.albedo.packageprocessor.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
