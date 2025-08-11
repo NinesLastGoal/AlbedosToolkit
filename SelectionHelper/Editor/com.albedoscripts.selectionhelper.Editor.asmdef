@@ -1,5 +1,5 @@
 {
-    "name": "com.dreadscripts.copycutpaste.Editor",
+    "name": "com.albedoscripts.selectionhelper",
     "references": [],
     "includePlatforms": [
         "Editor"

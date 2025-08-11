@@ -7,7 +7,7 @@ using UnityEngine;
 using UnityEditor;
 using Object = UnityEngine.Object;
 
-namespace DreadScripts.PackageProcessor
+namespace AlbedoScripts.PackageProcessor
 {
     [InitializeOnLoad]
     public class ImportPostProcessor

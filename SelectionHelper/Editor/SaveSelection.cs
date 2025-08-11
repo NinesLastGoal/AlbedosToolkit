@@ -2,13 +2,13 @@
 using UnityEditor;
 using System.Linq;
 
-//Made by Dreadrith#3238
+//Made by Albedo, Guardian Overseer of Nazarick
 //Discord: https://discord.gg/ZsPfrGn
-//Github: https://github.com/Dreadrith/DreadScripts
+//Github: https://github.com/NinesLastGoal/AlbedosToolkit
 //Gumroad: https://gumroad.com/dreadrith
 //Ko-fi: https://ko-fi.com/dreadrith
 
-namespace DreadScripts.SelectionHelper
+namespace AlbedoScripts.SelectionHelper
 {
     [System.Serializable]
     public class SaveSelection : ScriptableObject

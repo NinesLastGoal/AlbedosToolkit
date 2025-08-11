@@ -1,17 +1,17 @@
 {
   "author": {
-    "name": "Dreadrith",
-    "email": "dreadscripts@gmail.com",
-    "url": "https://github.com/Dreadrith"
+    "name": "Albedo",
+    "email": "albedoscripts@nazarick.tomb",
+    "url": "https://github.com/NinesLastGoal"
   },
-  "name": "com.dreadscripts.limbcontrol",
-  "displayName": "DreadScripts - Limb Control",
+  "name": "com.albedoscripts.limbcontrol",
+  "displayName": "AlbedoScripts - Limb Control",
   "version": "1.1.2",
   "description": "Puppet Control your limbs whether you're on VR or Desktop, Sitting or Dancing",
   "keywords": [
-    "Dreadrith",
-    "DreadScripts",
-    "DreadTools",
+    "Albedo",
+    "AlbedoScripts",
+    "AlbedoTools",
     "VRChat",
     "Tool",
     "Feature",
@@ -22,8 +22,8 @@
     "com.vrchat.avatars": "3.x.x"
   },
   "legacyFolders": {
-    "Assets/DreadScripts/Limb Control": "590739e9535a1a0418b3476990debfb3",
-    "Assets/DreadScripts/LimbControl": "-1"
+    "Assets/AlbedoScripts/Limb Control": "590739e9535a1a0418b3476990debfb3",
+    "Assets/AlbedoScripts/LimbControl": "-1"
   },
   "legacyFiles": {},
   "type": "tool",

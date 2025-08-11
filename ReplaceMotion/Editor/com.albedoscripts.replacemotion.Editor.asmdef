@@ -1,7 +1,9 @@
 {
-    "name": "com.dreadscripts.metalpipe.Editor",
+    "name": "com.albedoscripts.replacemotion.Editor",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

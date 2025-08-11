@@ -9,4 +9,4 @@ Automatically sets valid models to Humanoid and other usual settings upon import
 - Removes Jaw bone if invalid
 
 ### Thank you
-If you enjoy VRCProcessor, please consider [supporting me ♡](https://ko-fi.com/Dreadrith)!
+If you enjoy this tool, may it serve your development with the perfection befitting the Great Tomb of Nazarick!

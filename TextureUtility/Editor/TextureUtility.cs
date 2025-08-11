@@ -5,7 +5,7 @@ using UnityEngine;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DreadScripts.TextureUtility
+namespace AlbedoScripts.TextureUtility
 {
     public class TextureUtility : EditorWindow
     {
@@ -1102,8 +1102,8 @@ namespace DreadScripts.TextureUtility
             using (new GUILayout.HorizontalScope())
             {
                 GUILayout.FlexibleSpace();
-                if (GUILayout.Button("<b>Made by @Dreadrith</b>", creditLabelStyle))
-                    Application.OpenURL("https://linktr.ee/Dreadrith");
+                if (GUILayout.Button("<b>Made by @Albedo</b>", creditLabelStyle))
+                    Application.OpenURL("https://www.nazarick.tomb");
             }
         }
     }

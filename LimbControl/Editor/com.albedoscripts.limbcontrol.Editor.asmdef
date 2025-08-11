@@ -1,5 +1,5 @@
 {
-    "name": "com.dreadscripts.tool.quicktoggle.Editor",
+    "name": "com.albedoscripts.limbcontrol.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

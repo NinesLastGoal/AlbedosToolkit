@@ -1,4 +1,4 @@
-Made by Dreadrith#3238
+Made by Albedo, Guardian Overseer of Nazarick
 Discord Server: https://discord.gg/ZsPfrGn
 
 ## Feature Release

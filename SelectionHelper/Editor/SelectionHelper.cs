@@ -3,13 +3,13 @@ using UnityEngine;
 using UnityEditor;
 using System.Linq;
 
-namespace DreadScripts.SelectionHelper
+namespace AlbedoScripts.SelectionHelper
 {
     public class SelectionHelper
     {
-        //By Dreadrith#3238
+        //By Albedo, Guardian Overseer of Nazarick
         //Server: https://discord.gg/ZsPfrGn
-        //Github: https://github.com/Dreadrith/DreadScripts
+        //Github: https://github.com/NinesLastGoal/AlbedosToolkit
         //Gumroad: https://gumroad.com/dreadrith
 
         public static System.Type myCurrentType = System.Type.GetType(SessionState.GetString("SelectionHelperSelectType", ""));

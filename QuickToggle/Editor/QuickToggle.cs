@@ -10,7 +10,7 @@ using VRC.SDK3.Avatars.Components;
 using VRC.SDK3.Avatars.ScriptableObjects;
 using Object = UnityEngine.Object;
 
-namespace DreadScripts.QuickToggle
+namespace AlbedoScripts.QuickToggle
 {
     public class QuickToggle : EditorWindow
     {
@@ -195,8 +195,8 @@ namespace DreadScripts.QuickToggle
             using (new GUILayout.HorizontalScope())
             {
                 GUILayout.FlexibleSpace();
-                if (GUILayout.Button("Made by Dreadrith#3238", "boldlabel"))
-                    Application.OpenURL("https://github.com/Dreadrith/DreadScripts");
+                if (GUILayout.Button("Made by Albedo, Guardian Overseer", "boldlabel"))
+                    Application.OpenURL("https://github.com/NinesLastGoal/AlbedosToolkit");
             }
 
             EditorGUILayout.EndScrollView();

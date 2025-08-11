@@ -1,25 +1,25 @@
 {
-  "name": "com.dreadscripts.selectionhelper",
-  "displayName": "DreadScripts - Selection Helper",
+  "name": "com.albedoscripts.selectionhelper",
+  "displayName": "AlbedoScripts - Selection Helper",
   "version": "1.2.4",
   "unity": "2019.4",
   "license": "MIT",
   "description": "Unity Editor package to make selecting certain objects easier and less tedious",
   "keywords": [
-    "Dreadrith",
-    "DreadScripts",
-    "DreadTools",
+    "Albedo",
+    "AlbedoScripts",
+    "AlbedoTools",
 	"Editor",
     "Utility",
     "Selection"
   ],
   "author": {
-    "name": "Dreadrith",
-    "email": "dreadscripts@gmail.com",
-    "url": "https://github.com/Dreadrith"
+    "name": "Albedo",
+    "email": "albedoscripts@nazarick.tomb",
+    "url": "https://github.com/NinesLastGoal"
   },
   "legacyFolders": {
-    "Assets\\DreadScripts\\Selection Helper": "6ec3e159e94175241a20166127b7da81",
-	"Assets\\DreadScripts\\SelectionHelper": "e0c37a2eebed7f54eb05af2439a04f27"
+    "Assets\\AlbedoScripts\\Selection Helper": "6ec3e159e94175241a20166127b7da81",
+	"Assets\\AlbedoScripts\\SelectionHelper": "e0c37a2eebed7f54eb05af2439a04f27"
   }
 }

@@ -1,14 +1,14 @@
 {
-  "name": "com.dreadscripts.vrcprocessor",
-  "displayName": "DreadScripts - VRCProcessor",
+  "name": "com.albedoscripts.vrcprocessor",
+  "displayName": "AlbedoScripts - VRCProcessor",
   "version": "1.0.1",
   "description": "Automatically sets valid models to Humanoid and other usual settings upon import.",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
-    "name": "Dreadrith",
-    "email": "dreadscripts@gmail.com",
-    "url": "https://www.dreadrith.com"
+    "name": "Albedo",
+    "email": "albedoscripts@nazarick.tomb",
+    "url": "https://www.nazarick.tomb"
   },
   "legacyFolders": {},
   "legacyFiles": {},

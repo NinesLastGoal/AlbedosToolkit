@@ -1,7 +1,7 @@
 # PhysBone Converter
 This tool will convert your PhysBones and PBColliders to DynamicBones and DBColliders.<br>
 Of course, it's not perfect but it does almost the inverse conversion of PhysBones.<br><br>
-<a href=https://github.com/Dreadrith/PhysBone-Converter/releases/latest/download/PhysBoneConverter.unitypackage>Download here</a><br><br>
+<a href=https://github.com/NinesLastGoal/PhysBone-Converter/releases/latest/download/PhysBoneConverter.unitypackage>Download here</a><br><br>
 ![window](https://raw.githubusercontent.com/Dreadrith/DreadScripts/main/Other/Info_Source/PhysBoneConverter/toolwindow.png)
 
 # How to use

@@ -1,6 +1,6 @@
 # Camera Utility
 
-### [Download From Here](https://vpm.dreadscripts.com/)
+### [Download From Here](https://www.nazarick.tomb/tools/)
 
 ![image](https://i.imgur.com/5fow365.gif)
 
@@ -13,4 +13,4 @@
 3. Choose either "Snap Scene To Game" or "Snap Game To Scene" to synchronize views accordingly.
 
 ### Thank You
-If you enjoy Camera Utility, please consider [supporting me ♡](https://ko-fi.com/Dreadrith)!
+If you enjoy this tool, may it serve your development with the perfection befitting the Great Tomb of Nazarick!

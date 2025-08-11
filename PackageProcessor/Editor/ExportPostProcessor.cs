@@ -9,7 +9,7 @@ using System.IO;
 using System.Linq;
 using Object = UnityEngine.Object;
 
-namespace DreadScripts.PackageProcessor
+namespace AlbedoScripts.PackageProcessor
 {
     [InitializeOnLoad]
     public class ExportPostProcessor
@@ -106,8 +106,8 @@ namespace DreadScripts.PackageProcessor
             using (new GUILayout.HorizontalScope())
             {
 
-                if (GUILayout.Button("Modified by Dreadrith#3238", "minilabel"))
-                    Application.OpenURL("https://github.com/Dreadrith/DreadScripts");
+                if (GUILayout.Button("Modified by Albedo, Guardian Overseer", "minilabel"))
+                    Application.OpenURL("https://github.com/NinesLastGoal/AlbedosToolkit");
                 GUILayout.FlexibleSpace();
             }
         }

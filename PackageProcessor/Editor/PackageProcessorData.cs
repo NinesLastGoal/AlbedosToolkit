@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace DreadScripts.PackageProcessor
+namespace AlbedoScripts.PackageProcessor
 {
     [System.Serializable]
     public class PackageProcessorData : ScriptableObject

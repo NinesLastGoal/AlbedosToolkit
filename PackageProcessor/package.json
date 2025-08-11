@@ -1,14 +1,14 @@
 {
   "name": "com.dreadrith.packageprocessor",
-  "displayName": "DreadScripts - PackageProcessor",
+  "displayName": "AlbedoScripts - PackageProcessor",
   "version": "1.0.1",
   "description": "Make it less tedious to import or export only the things that you need.",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
-    "name": "Dreadrith",
-    "email": "dreadscripts@gmail.com",
-    "url": "https://www.dreadrith.com"
+    "name": "Albedo",
+    "email": "albedoscripts@nazarick.tomb",
+    "url": "https://www.nazarick.tomb"
   },
   "legacyFolders": {},
   "legacyFiles": {},

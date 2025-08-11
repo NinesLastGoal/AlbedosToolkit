@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-namespace DreadScripts.ResetHumanoid
+namespace AlbedoScripts.ResetHumanoid
 {
 	public class ResetHumanoid : EditorWindow
 	{

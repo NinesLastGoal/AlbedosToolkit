@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-namespace DreadScripts.TextureUtility
+namespace AlbedoScripts.TextureUtility
 {
     [System.Serializable]
     [CreateAssetMenu(fileName = "New Auto-Packer Module", menuName = "DreadScripts/Auto-Packer Module")]

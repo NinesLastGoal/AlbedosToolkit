@@ -1,5 +1,5 @@
 {
-    "name": "com.dreadscripts.textureutility.Editor",
+    "name": "com.albedoscripts.vrcprocessor.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

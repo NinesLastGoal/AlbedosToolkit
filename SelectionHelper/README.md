@@ -1,7 +1,7 @@
 # SelectionHelper
 Unity Editor package to make selecting certain objects easier and less tedious
 
-<a href="https://vpm.dreadscripts.com/">Get it from the VCC listing!</a>
+<a href="https://www.nazarick.tomb/tools/">Get it from the VCC listing!</a>
 
 SelectionHelper:
 ----------------

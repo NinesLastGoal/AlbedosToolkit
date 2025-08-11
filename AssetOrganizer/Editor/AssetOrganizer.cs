@@ -9,7 +9,7 @@ using System.Linq;
 using System.Collections.Generic;
 using Object = UnityEngine.Object;
 
-namespace DreadScripts.AssetOrganizer
+namespace AlbedoScripts.AssetOrganizer
 {
     public class AssetOrganizer : EditorWindow
     {
@@ -492,8 +492,8 @@ namespace DreadScripts.AssetOrganizer
             using (new GUILayout.HorizontalScope())
             {
                 GUILayout.FlexibleSpace();
-                if (GUILayout.Button("Made By Dreadrith#3238", "boldlabel"))
-                    Application.OpenURL("https://linktr.ee/Dreadrith");
+                if (GUILayout.Button("Made By Albedo, Guardian Overseer", "boldlabel"))
+                    Application.OpenURL("https://www.nazarick.tomb");
             }
         }
 

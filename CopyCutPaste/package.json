@@ -1,14 +1,14 @@
 {
-  "name": "com.dreadscripts.copycutpaste",
-  "displayName": "DreadScripts - CopyCutPaste",
+  "name": "com.albedoscripts.copycutpaste",
+  "displayName": "AlbedoScripts - CopyCutPaste",
   "version": "1.0.1",
   "description": "Adds 3 much needed buttons to Unity assets: Copy, Cut, and Paste.",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
-    "name": "Dreadrith",
-    "email": "dreadscripts@gmail.com",
-    "url": "https://www.dreadrith.com"
+    "name": "Albedo",
+    "email": "albedoscripts@nazarick.tomb",
+    "url": "https://www.nazarick.tomb"
   },
   "legacyFolders": {},
   "legacyFiles": {},

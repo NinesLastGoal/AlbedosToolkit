@@ -1,9 +1,7 @@
 {
-    "name": "com.dreadscripts.camerautility.Editor",
+    "name": "com.albedoscripts.metalpipe.Editor",
     "references": [],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
